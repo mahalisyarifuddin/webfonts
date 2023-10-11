@@ -1,4 +1,4 @@
 # webfonts
-Just an ordinary repo to host fonts to my personal projects.
+This repository is simply a commonplace to host fonts for my personal projects.
 
-All of the fonts hosted on this repo are all FLOSS or at least uses permissive license.
+All the fonts contained within this repository are either FLOSS or carry a permissive license.
